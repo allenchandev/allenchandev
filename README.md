@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Allen Chandev 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Allen+Chandev;Full+Stack+%26+AI+Solutions+Architect;Building+Autonomous+Systems+%26+IoT" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <strong>Full Stack & AI Solutions Architect</strong><br>
-  Building Autonomous Systems, AI Agents & IoT Solutions.
+  <strong>Crafting modern, high-performance digital experiences across Web, AI & Edge Infrastructure.</strong>
 </p>
 
 <p align="center">
