@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://allenchandev.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-allenchandev.vercel.app-14B8A6?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/allen-chandev-36100a347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://allenchandev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-allenchandev.vercel.app-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/allen-chandev-36100a347/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:allenchandev25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -111,12 +111,15 @@
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allenchandev25-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenchandev25-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=allenchandev25-del&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenchandev25-del&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allenchandev25-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenchandev25-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -124,4 +127,5 @@
 <p align="center">
   <i>"Simplicity is the ultimate sophistication."</i> — Leonardo da Vinci
 </p>
+
 
