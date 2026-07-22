@@ -1,78 +1,127 @@
-<h1 align="center">Hi 👋, I'm Allen Chandev</h1>
-<h3 align="center">Full Stack Developer & AI Solutions Architect from India 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Allen+Chandev;Full+Stack+%26+AI+Solutions+Architect;Building+Autonomous+Systems+%26+IoT" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/allenchandev25-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=I'm+a+Full+Stack+Developer;I+build+AI-powered+platforms;I+architect+scalable+web+apps;Exploring+Cyber+Security+%26+IoT" alt="Typing SVG" />
-  </a>
+  <strong>Crafting modern, high-performance digital experiences across Web, AI & Edge Infrastructure.</strong>
 </p>
 
 <p align="center">
-  Building modern, premium digital experiences across Web, AI, and IoT infrastructure.
+  <a href="https://allenchandev.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-allenchandev.vercel.app-14B8A6?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/allen-chandev-36100a347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:allenchandev25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/allen-chandev-36100a347/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:allenchandev25@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-000000?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-Karunya_Institute_of_Technology_and_Sciences-000000?style=flat-square&logo=graduation-cap&logoColor=2DD4BF" alt="Education" />
+  <img src="https://img.shields.io/badge/Focus-AI_Agents_%26_IoT_Edge-000000?style=flat-square&logo=cpu&logoColor=2DD4BF" alt="Focus" />
 </p>
 
 ---
 
-### 💻 Tech Stack & Skills
+### 🛠️ Tech Stack & Architecture
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,mysql,firebase,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,express,mysql,firebase,docker,git,linux,cpp,arduino" />
   </a>
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="25%">
-      <strong>🌐 Frontend</strong><br>
-      Next.js, React, TypeScript, Tailwind CSS
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend & Web Engineering</h4>
+      <ul>
+        <li><b>Frameworks:</b> Next.js, React, TypeScript</li>
+        <li><b>Styling & Animations:</b> Tailwind CSS, Framer Motion, Vanilla CSS</li>
+        <li><b>State & Tools:</b> Redux, Zustand, Vite</li>
+      </ul>
     </td>
-    <td align="center" width="25%">
-      <strong>⚙️ Backend</strong><br>
-      Node.js, Express, Flask, MySQL, Firebase
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Cloud Systems</h4>
+      <ul>
+        <li><b>Runtime & Languages:</b> Node.js, Express, Python, C++</li>
+        <li><b>Databases & Services:</b> MySQL, Firebase, Redis, Supabase</li>
+        <li><b>DevOps & OS:</b> Linux, Docker, Git, CI/CD</li>
+      </ul>
     </td>
-    <td align="center" width="25%">
-      <strong>🧠 AI & IoT</strong><br>
-      Ollama, LLMs, Arduino, Python, Anomaly Detection
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 AI & Machine Intelligence</h4>
+      <ul>
+        <li><b>LLM Stack:</b> Ollama, Local Inference, LangChain</li>
+        <li><b>Core AI:</b> Python, Anomaly Detection, Neural Nets</li>
+      </ul>
     </td>
-    <td align="center" width="25%">
-      <strong>🛠️ Core & Security</strong><br>
-      Linux, Java, C, Burp Suite, Nmap
+    <td width="50%" valign="top">
+      <h4>🔌 IoT, Cyber Security & Hardware</h4>
+      <ul>
+        <li><b>Hardware & Protocols:</b> Arduino, Raspberry Pi, MQTT, Telemetry</li>
+        <li><b>Security Tools:</b> Burp Suite, Nmap, Network Analysis</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-### 🚀 Featured Projects
+---
 
-| Project | Description | Made With |
-| :--- | :--- | :--- |
-| **[PathX](https://github.com/allenchandev25-del/PathX)** | Autonomous Vehicle Simulator using Kinematic Bicycle Models and Pure Pursuit algorithms. | `React`, `TypeScript`, `Motion` |
-| **[Lumina AI](https://github.com/allenchandev25-del/AI_Tutoring_Assistant)** | Privacy-first AI tutoring platform utilizing locally-hosted inference (Ollama). | `Next.js`, `Ollama`, `TS` |
-| **[Edgelytics](https://github.com/allenchandev25-del/Edgelytics)** | Edge computing IoT framework for real-time telemetry and environmental anomaly detection. | `Python`, `Flask`, `Arduino` |
-| **[Wazabi](https://github.com/allenchandev25-del/Wazabi)** | Full-stack e-commerce platform with Razorpay integration and MySQL backend. | `Node.js`, `MySQL`, `React` |
-| **[Emergency Geo-Router](https://github.com/allenchandev25-del/universal-emergency-resource-router)** | Fault-tolerant redundant routing system for location triangulation in offline environments. | `React`, `Geolocation API` |
+### 🚀 Featured Engineering Projects
 
-### 🎓 Education
-- 🎓 **B.Tech Computer Science Engineering** *(Karunya Institute of Technology and Sciences)* | 2025 - 2029
-- 🏫 **ICSE** *(St Hilda's School Ooty)* | 2019 - 2025
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="50%">Description</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/allenchandev25-del/PathX">🏎️ PathX</a></b></td>
+      <td>Autonomous vehicle kinematics simulator featuring Pure Pursuit algorithms & real-time path planning visualizer.</td>
+      <td><code>React</code> <code>TypeScript</code> <code>Motion</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/allenchandev25-del/AI_Tutoring_Assistant">🤖 Lumina AI</a></b></td>
+      <td>Privacy-focused localized AI tutoring system running offline LLM inference via Ollama.</td>
+      <td><code>Next.js</code> <code>Ollama</code> <code>TS</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/allenchandev25-del/Edgelytics">📡 Edgelytics</a></b></td>
+      <td>Edge computing IoT framework providing real-time telemetry analytics & automated anomaly detection.</td>
+      <td><code>Python</code> <code>Flask</code> <code>Arduino</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/allenchandev25-del/Wazabi">🛍️ Wazabi</a></b></td>
+      <td>Scalable e-commerce web application equipped with seamless Razorpay payment gateway & dynamic inventory management.</td>
+      <td><code>Node.js</code> <code>MySQL</code> <code>React</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/allenchandev25-del/universal-emergency-resource-router">🚨 Emergency Geo-Router</a></b></td>
+      <td>Fault-tolerant redundant routing network for rapid offline location triangulation during emergency response.</td>
+      <td><code>React</code> <code>Geolocation</code></td>
+    </tr>
+  </tbody>
+</table>
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allenchandev25-del&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenchandev25-del&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allenchandev25-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenchandev25-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenchandev25-del&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenchandev25-del&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
+
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
+  <i>"Simplicity is the ultimate sophistication."</i> — Leonardo da Vinci
 </p>
+
