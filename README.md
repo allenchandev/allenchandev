@@ -23,16 +23,6 @@
 
 ---
 
-### 🚀 Projects
-
-- **[PathX](https://github.com/allenchandev25-del/PathX)** — Autonomous vehicle kinematics simulator & path visualizer.
-- **[Lumina AI](https://github.com/allenchandev25-del/AI_Tutoring_Assistant)** — Localized AI tutoring system powered by offline LLMs.
-- **[Edgelytics](https://github.com/allenchandev25-del/Edgelytics)** — Edge computing IoT framework for real-time telemetry analytics.
-- **[Wazabi](https://github.com/allenchandev25-del/Wazabi)** — E-commerce platform with integrated payment gateway & inventory management.
-- **[Emergency Geo-Router](https://github.com/allenchandev25-del/universal-emergency-resource-router)** — Offline redundant routing network for emergency response.
-
----
-
 ### 📊 Stats
 
 <p align="center">
